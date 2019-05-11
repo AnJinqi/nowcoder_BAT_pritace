@@ -1,5 +1,5 @@
 import java.util.*;
-// Bubble Sort的时间复杂度为O（n ^ 2）
+// Bubble Sort的时间复杂度为O（n ^ 2） 稳定
 public class BubbleSort {
     public int[] bubbleSort(int[] A, int n) {
         // write code here
