@@ -1,5 +1,5 @@
 import java.util.*;
-// 插入排序时间复杂度O（n ^ 2）
+// 插入排序时间复杂度O（n ^ 2）  稳定
 public class InsertionSort {
     public int[] insertionSort(int[] A, int n) {
         // write code here
