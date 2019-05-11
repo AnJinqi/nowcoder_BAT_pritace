@@ -1,5 +1,5 @@
 import java.util.*;
-//快速排序时间复杂度O（n * log(n)）
+//快速排序时间复杂度O(n * log(n))  不稳定
 public class QuickSort {
     public int[] quickSort(int[] A, int n) {
         // write code here
