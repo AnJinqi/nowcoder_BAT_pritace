@@ -1,5 +1,5 @@
 import java.util.*;
-// selectionSort的时间复杂度O（n ^ 2）
+// selectionSort的时间复杂度O（n ^ 2）  不稳定
 public class SelectionSort {
     public int[] selectionSort(int[] A, int n) {
         // write code here
